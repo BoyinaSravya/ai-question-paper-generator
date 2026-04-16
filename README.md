@@ -1,6 +1,8 @@
 **AI Question Paper Generator**
 An interactive web application built using Streamlit that automatically generates structured question papers from a given syllabus (PDF or Excel).
 This tool helps educators and students quickly create exam-ready question papers with customizable formats.
+
+
 **Features**
 * Upload syllabus in PDF or Excel format
 * Automatically extracts topics
@@ -13,6 +15,8 @@ Part B (Long Answer Questions with OR choice)
 * Downloads final paper as a PDF
 * Ensures no duplicate questions
 *  Simple and user-friendly interface
+
+  
 **Technologies Used**
 * Python
 * Streamlit – for web interface
